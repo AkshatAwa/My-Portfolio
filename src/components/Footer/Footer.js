@@ -6,7 +6,7 @@ import "./footer.css";
 
 const Footer = () => {
   return (
-    <div className="h-[calc(70vh-4rem)] bg-[rgb(38,38,67)]">
+    <div className="h-[calc(77vh-4rem)] bg-[rgb(38,38,67)]">
       <div className="usedlang">
         <div className="footerbrief relative flex justify-center text-4xl top-10">
           <h3>
