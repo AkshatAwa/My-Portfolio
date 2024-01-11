@@ -1,0 +1,34 @@
+[
+    {
+        "label": "Java",
+        "value": 70
+    },
+    {
+        "label": "JavaScript",
+        "value": 60
+    },
+    {
+        "label": "React",
+        "value": 80
+    },
+    {
+        "label": "HTML",
+        "value": 85
+    },
+    {
+        "label": "Python",
+        "value": 92
+    },
+    {
+        "label": "CSS",
+        "value": 85
+    },
+    {
+        "label": "MongoDB",
+        "value": 45
+    },
+    {
+        "label": "MySQL",
+        "value": 90
+    }
+]

@@ -1,0 +1,12 @@
+#project{
+    height: calc(100vh - 4rem);
+    position: absolute;
+}
+.pexp{
+    color: rgb(185, 184, 184);
+}
+.pwexp{
+    color: white;
+    margin: 30px 66px 0 0;
+    z-index: 1;
+}

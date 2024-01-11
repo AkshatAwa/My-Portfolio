@@ -1,0 +1,31 @@
+.react, .js, .twc{
+    width: 4rem;
+    height: auto;
+}
+.firstext{
+    display: flex;
+    position: relative;
+    color: rgb(185, 184, 184);
+    font-size: 20px;
+    justify-content: center;
+    align-items: center;
+    top: 10px;
+}
+.sepline{
+    display: flex;
+    position: relative;
+    margin-left: 3vw;
+    top: 35px;
+    background-color: white;
+    width: 93vw;
+    height: 2px;
+    justify-content: center;
+}
+.credit{
+    display: flex;
+    position: relative;
+    top: 55px;
+    color: rgb(185, 184, 184);
+    justify-content: center;
+    align-items: center;
+}

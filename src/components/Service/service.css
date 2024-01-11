@@ -1,0 +1,81 @@
+.exp{
+    position: relative;
+    margin: 30px 66px;
+    padding-bottom: 70px;
+    color: rgb(185, 184, 184);
+}
+.wexp{
+    color: white;
+}
+.flex-container{
+    display: flex;
+    position: relative;
+    top: 66px;
+    width: 100%;
+    height: auto;
+    flex-wrap: wrap;
+    gap: 85px;
+    justify-content: center;
+}
+.flex-box{
+    width: 297px;
+    height: 372px;
+    background-color:rgb(94, 94, 163);
+    border-radius: 15px;
+    transition: 0.5s;
+}
+.flex-box{
+    cursor: pointer;
+}
+.flex-box .logo{
+    display: flex;
+    position: relative;
+    justify-content: center;
+    left: 30%;
+    top:11px;
+    width: 36%;
+    height: 30%;
+    background-color: #fff;
+    border-radius: 50%;
+    border: 5px solid #000;
+}
+.flex-box .logo .logos{
+    background-size: cover;
+}
+.flex-box .cbrief{
+    display: flex;
+    position: relative;
+    top: 25px;
+    justify-content: center;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    font-family:sans-serif;
+}
+.flex-box .linebr{
+    display: block;
+    position: relative;
+    background-color: white;
+    width: 88%;
+    height: 2px;
+    top: 40px;
+    left: 17px;
+}
+.flex-box .content{
+    display:flex;
+    position: relative;
+    top: 22px;
+    justify-content: center;
+    text-align: center;
+    margin-top: 39px;
+    width: 249px;
+    height: 113px;
+    margin-left: 23px;
+    color: white;
+    font-family:sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+}
+.flex-box:hover{
+    transform: scale(1.1);
+}

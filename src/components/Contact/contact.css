@@ -1,0 +1,77 @@
+.contactdesc{
+    color: rgb(185, 184, 184);
+}
+.contactForm{
+    display: flex;
+    flex-direction: column;
+    margin: 1rem auto;
+    row-gap: 2vw;
+    max-width: 32rem;
+    justify-content: center;
+    align-items: center;
+}
+.name, .email, .msg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(194, 193, 193);
+    color: #000;
+    min-width: 100%;
+    padding: 12px;
+    border: none;
+    border-radius: 0.2rem;
+}
+.submit{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #fff;
+    color: #000;
+    height: 7vh;
+    width: 10rem;
+    max-width: 30rem;
+    border-radius: 0.5rem;
+}
+.github{
+    width: 40px;
+    height: 30px;
+}
+.c_sepline{
+    display: flex;
+    position: relative;
+    top: -30px;
+    margin-left: 3vw;
+    background-color: white;
+    width: 93vw;
+    height: 2px;
+    justify-content: center;
+}
+.linkimg:hover{
+    transform: scale(1.1);
+    transition: all ease-in 0.2s alternate;
+}
+@media screen and (max-width:388px) {
+    .link{
+        gap:19px;
+    }
+}
+@media screen and (max-width:590px) {
+    .contactForm{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        max-width: 25rem;
+    }
+    .link{
+        display: flex;
+        gap: 30px;
+    }
+}
+@media screen and (max-width:422px) {
+    .contactForm{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        max-width: 19rem;
+    }
+}
