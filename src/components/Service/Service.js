@@ -50,9 +50,7 @@ function Service() {
                             </span>
                             <span className="cbrief">Data Analyst</span>
                             <span className="linebr"></span>
-                            <span className="content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus perspiciatis
-                                debitis molestiae ratione dolorum aspernatur velit obcaecati quas facilis expedita, distinctio
-                                delectus iusto corporis unde.</span>
+                            <span className="content">Data analyst with a keen eye for patterns, extracting valuable insights from complex datasets. Proficient in data visualization, statistical analysis, and business intelligence.</span>
 
                         </div>
                         <div className="flex-box">
@@ -61,9 +59,7 @@ function Service() {
                             </span>
                             <span className="cbrief">Software Development</span>
                             <span className="linebr"></span>
-                            <span className="content">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos nemo, natus ipsam,
-                                aliquid ipsa dicta corporis, veritatis quia vero in laboriosam et hic ducimus quas. Lorem ipsum
-                                dolor sit amet.</span>
+                            <span className="content">Software engineer adept at designing and developing scalable solutions. Proficient in multiple programming languages, emphasizing clean code, and solving complex problems efficiently.</span>
                             <div className="srvcbtn">
                             </div>
                         </div>
@@ -73,9 +69,7 @@ function Service() {
                             </span>
                             <span className="cbrief">Leadership</span>
                             <span className="linebr"></span>
-                            <span className="content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto cupiditate natus
-                                sed soluta magnam, nam, deserunt aspernatur ducimus magni quidem aut ratione! Placeat, illum
-                                sint.</span>
+                            <span className="content">Proven leader with strong strategic vision, effective communication, and team collaboration skills. Inspires and empowers others to achieve goals through innovation and positive influence</span>
                             <div className="srvcbtn">
                             </div>
                         </div>
