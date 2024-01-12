@@ -22,9 +22,7 @@ function Service() {
                             </span>
                             <span className="cbrief">Web Development</span>
                             <span className="linebr"></span>
-                            <div className="content">
                             <span className="content">Transforming ideas into powerful websites. My web development expertise ensures in converting your robust data models to real-world value.</span>
-                            </div>
                         </div>
                         <div className="flex-box">
                             <span className="logo">
@@ -32,9 +30,8 @@ function Service() {
                             </span>
                             <span className="cbrief">App Development</span>
                             <span className="linebr"></span>
-                            <div className="content">
                             <span className="content">Turning concepts into exceptional apps. My app development expertise guarantees seamless functionality, providing a standout user experience for your digital solutions</span>
-                            </div>
+
                         </div>
                         <div className="flex-box">
                             <span className="logo">
@@ -43,10 +40,8 @@ function Service() {
                             </span>
                             <span className="cbrief">AI Expert</span>
                             <span className="linebr"></span>
-                            <div className="content">
-                            <span className="content">AI expert with deep knowledge in machine learning and natural language processing. Passionate about solving complex problems.</span>
+                            <span className="content">AI expert with deep knowledge in machine learning and natural language processing. Passionate about solving complex problems and innovating with cutting-edge technologies.</span>
 
-                            </div>
                         </div>
                         <div className="flex-box">
                             <span className="logo">
@@ -55,10 +50,8 @@ function Service() {
                             </span>
                             <span className="cbrief">Data Analyst</span>
                             <span className="linebr"></span>
-                            <div className="content">
                             <span className="content">Data analyst with a keen eye for patterns, extracting valuable insights from complex datasets. Proficient in data visualization, statistical analysis, and business intelligence.</span>
 
-                            </div>
                         </div>
                         <div className="flex-box">
                             <span className="logo">
@@ -66,10 +59,7 @@ function Service() {
                             </span>
                             <span className="cbrief">Software Development</span>
                             <span className="linebr"></span>
-                            <div className="content">
                             <span className="content">Software engineer adept at designing and developing scalable solutions. Proficient in multiple programming languages, emphasizing clean code, and solving complex problems efficiently.</span>
-
-                            </div> 
                             <div className="srvcbtn">
                             </div>
                         </div>
@@ -79,10 +69,7 @@ function Service() {
                             </span>
                             <span className="cbrief">Leadership</span>
                             <span className="linebr"></span>
-                            <div className="content flex justify-center align-middle">
                             <span className="content">Proven leader with strong strategic vision, effective communication, and team collaboration skills. Inspires and empowers others to achieve goals through positive influence.</span>
-
-                            </div>
                             <div className="srvcbtn">
                             </div>
                         </div>

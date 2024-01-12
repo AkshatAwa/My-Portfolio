@@ -63,6 +63,7 @@
 }
 .flex-box .content{
     align-items: center;
+    position: relative;
     color: #fff;
     display: flex;
     font-family: sans-serif;
