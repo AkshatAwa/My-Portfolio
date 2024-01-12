@@ -62,20 +62,19 @@
     left: 17px;
 }
 .flex-box .content{
-    align-items: center;
+    display:flex;
     position: relative;
-    color: #fff;
-    display: flex;
-    font-family: sans-serif;
-    font-weight: 700;
-    height: 112px;
-    justify-content: center;
-    left: 23px;
-    margin-top: 39px;
-    position: relative;
-    text-decoration: none;
     top: 22px;
-    width: 218px;
+    justify-content: center;
+    text-align: center;
+    margin-top: 39px;
+    width: 249px;
+    height: 113px;
+    margin-left: 23px;
+    color: white;
+    font-family:sans-serif;
+    font-weight: bold;
+    text-decoration: none;
 }
 .flex-box:hover{
     transform: scale(1.1);
