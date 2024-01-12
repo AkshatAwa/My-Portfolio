@@ -63,14 +63,11 @@
 }
 .flex-box .content{
     display:flex;
-    position: relative;
-    top: 22px;
-    left: 23px;
     justify-content: center;
     align-items: center;
-    margin-top: 39px;
+    margin-top: 20px;
     width: 249px;
-    height: 113px;
+    height: 100px;
     color: white;
     font-family:sans-serif;
     font-weight: bold;
