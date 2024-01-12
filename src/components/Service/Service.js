@@ -30,7 +30,7 @@ function Service() {
                             </span>
                             <span className="cbrief">App Development</span>
                             <span className="linebr"></span>
-                            <span className="content">Turning concepts into exceptional apps. My app development expertise guarantees seamless functionality, providing a standout user experience for your digital solutions</span>
+                            <span className="content">Turning concepts into exceptional apps. My app development expertise provides a standout user experience for your digital solutions</span>
 
                         </div>
                         <div className="flex-box">
@@ -40,7 +40,7 @@ function Service() {
                             </span>
                             <span className="cbrief">AI Expert</span>
                             <span className="linebr"></span>
-                            <span className="content">AI expert with deep knowledge in machine learning and natural language processing. Passionate about solving complex problems and innovating with cutting-edge technologies.</span>
+                            <span className="content">AI expert with deep knowledge in machine learning and natural language processing and innovating with cutting-edge technologies.</span>
 
                         </div>
                         <div className="flex-box">
@@ -50,7 +50,7 @@ function Service() {
                             </span>
                             <span className="cbrief">Data Analyst</span>
                             <span className="linebr"></span>
-                            <span className="content">Data analyst with a keen eye for patterns, extracting valuable insights from complex datasets. Proficient in data visualization, statistical analysis, and business intelligence.</span>
+                            <span className="content">Data analyst with a keen eye for patterns, extracting valuable insights from complex datasets. Proficient in data visualization.</span>
 
                         </div>
                         <div className="flex-box">
@@ -59,7 +59,7 @@ function Service() {
                             </span>
                             <span className="cbrief">Software Development</span>
                             <span className="linebr"></span>
-                            <span className="content">Software engineer adept at designing and developing scalable solutions. Proficient in multiple programming languages, emphasizing clean code, and solving complex problems efficiently.</span>
+                            <span className="content">Proficient in multiple programming languages, emphasizing clean code, and solving complex problems efficiently.</span>
                             <div className="srvcbtn">
                             </div>
                         </div>
@@ -69,7 +69,7 @@ function Service() {
                             </span>
                             <span className="cbrief">Leadership</span>
                             <span className="linebr"></span>
-                            <span className="content">Proven leader with strong strategic vision, effective communication, and team collaboration skills. Inspires and empowers others to achieve goals through positive influence.</span>
+                            <span className="content">Proven leader with strong vision, effective communication, and team collaboration skills. Inspires others to achieve goals through positive influence.</span>
                             <div className="srvcbtn">
                             </div>
                         </div>
