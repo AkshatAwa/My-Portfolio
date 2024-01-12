@@ -44,7 +44,7 @@ function Service() {
                             <span className="cbrief">AI Expert</span>
                             <span className="linebr"></span>
                             <div className="content">
-                            <span className="content">AI expert with deep knowledge in machine learning and natural language processing. Passionate about solving complex problems and innovating with cutting-edge technologies.</span>
+                            <span className="content">AI expert with deep knowledge in machine learning and natural language processing. Passionate about solving complex problems.</span>
 
                             </div>
                         </div>
