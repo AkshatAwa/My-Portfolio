@@ -69,7 +69,7 @@ function Service() {
                             </span>
                             <span className="cbrief">Leadership</span>
                             <span className="linebr"></span>
-                            <span className="content">Proven leader with strong strategic vision, effective communication, and team collaboration skills. Inspires and empowers others to achieve goals through innovation and positive influence</span>
+                            <span className="content">Proven leader with strong strategic vision, effective communication, and team collaboration skills. Inspires and empowers others to achieve goals through positive influence.</span>
                             <div className="srvcbtn">
                             </div>
                         </div>
