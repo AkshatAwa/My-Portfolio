@@ -30,7 +30,7 @@ function Service() {
                             </span>
                             <span className="cbrief">App Development</span>
                             <span className="linebr"></span>
-                            <span className="content">Turning concepts into exceptional apps. My app development expertise provides a standout user experience for your digital solutions</span>
+                            <span className="content">Turning concepts into exceptional apps. My app development expertise provides a standout user experience for your digital solutions.</span>
 
                         </div>
                         <div className="flex-box">
