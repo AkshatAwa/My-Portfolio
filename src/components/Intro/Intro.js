@@ -16,7 +16,7 @@ const Intro= () => {
       <span className="introText" data-aos="fade-up">I'm <span className="introName">Akshat</span><br />Software Engineer</span>
       <p className="intropara" data-aos="fade-up">I'm a skilled Web developer with experience in creating an appealing and user friendly websites.</p>
       <div class="hiring" data-aos="fade-up">
-        <a href="src/components/Intro/AkshatAwasthiResume.pdf" download><button class="btn" id="dp" data-aos="fade-up">Download Resume</button></a>
+        <a href="src/components/Intro/AkshatAwasthiResume.pdf" download="Akshat's Resume"><button class="btn" id="dp" data-aos="fade-up">Download Resume</button></a>
         <a href="https://github.com/AkshatAwa" data-aos="fade-up"><button class="btn">Visit Github</button></a>
       </div>
     </div>
